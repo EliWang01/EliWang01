@@ -15,7 +15,7 @@ I am an MSc Data Science student at City University of Hong Kong, with a backgro
 
 ### Long-Term Conversational Memory
 
-I build memory and retrieval systems for question answering over evolving dialogue histories. The work combines temporal validity, graph-structured evidence, and query-time context assembly to help models reason over facts that may change, expire, or contradict earlier states.
+A research line on memory and retrieval for question answering over evolving dialogue histories. It combines temporal validity, graph-structured evidence, and query-time context assembly to help models reason over facts that may change, expire, or contradict earlier states.
 
 Highlights:
 
@@ -28,7 +28,7 @@ Core stack: `Python`, `NetworkX`, `sentence-transformers`, `OpenAI-compatible AP
 
 ### Irreversible Tool-Use Governance
 
-I study no-retraining governance methods for stateful tool-use agents that must decide whether to commit irreversible actions. The work uses action reversibility, uncertainty estimation, and value-of-information reasoning to decide when an agent should probe, commit, or abstain under deadline pressure.
+A governance framework for stateful tool-use agents that must decide whether to commit irreversible actions. It uses action reversibility, uncertainty estimation, and value-of-information reasoning to decide when an agent should probe, commit, or abstain under deadline pressure.
 
 Highlights:
 
@@ -41,7 +41,7 @@ Core stack: `Python`, `Anthropic/OpenAI function-calling APIs`, `tau-bench`, `Ap
 
 ### Adaptive Evaluation of Agent Guards
 
-I evaluate whether external agent guards remain reliable when attackers know the guard exists and adapt against it. The work treats guards as compression mechanisms over screenshots, activations, or trajectories, then evaluates matched adaptive attacks under a fixed protocol.
+An adaptive-evaluation study of external agent guards under attackers that know the guard exists. It treats guards as compression mechanisms over screenshots, activations, or trajectories, then evaluates matched adaptive attacks under a fixed protocol.
 
 Highlights:
 
