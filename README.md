@@ -37,7 +37,7 @@ Highlights:
 - Implemented probe valuation and a deadline-aware controller for irreversible action boundaries.
 - Developed an evaluation framework for comparing tool-use governance policies under controlled conditions.
 
-Core stack: `Python 3.12`, `Anthropic/OpenAI function-calling APIs`, `tau-bench`, `AppWorld`, `YAML tool metadata`
+Core stack: `Python`, `Anthropic/OpenAI function-calling APIs`, `tau-bench`, `AppWorld`, `YAML tool metadata`
 
 ### Adaptive Evaluation of Agent Guards
 
@@ -56,10 +56,10 @@ Core stack: `Python`, `PyTorch`, `Hugging Face Transformers`, `OpenCV`, `Tessera
 
 `Python` | `C` | `C++` | `PyTorch` | `NetworkX` | `Hugging Face Transformers` | `OpenAI/Anthropic APIs` | `OpenCV` | `Tesseract OCR` | `Stata`
 
-## Background
+## Education Background
 
 - MSc in Data Science, City University of Hong Kong
-- B.Mgt. in Accounting, Northwestern Polytechnical University
+- BMgt in Accounting, Northwestern Polytechnical University
 
 ## Contact
 
